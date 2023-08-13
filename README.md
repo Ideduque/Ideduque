@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there Dear👋, I'm Joseilde Duque
 
-Sou Joseilde Duque,
-
-- 🌱 I’m currently learning BackEnd...
-- 😄 Pronouns: ela/dela...
+- 👩‍🦱 Pronouns: she/her.
+- 👩‍🎓 Postgraduate in Solid Waste Management and Environmental Management.
+- 🌱 BackEnd developer in training.👩‍💻 
