@@ -12,7 +12,7 @@
 - 🎶 ouvi musicas
 - 🌱 Mexer com a terra | plantas/hortaliças 
 - 🐶🐱🐟 Jogar e brincar com meus pets.
-- 📷 Fotografia é um hobby - Conheça [![Instagram](https://img.shields.io/badge/Instagram-E4405F?)]([https://twitter.com/Ide_dq](https://www.instagram.com/bra_fotos/))
+- 📷 Fotografia é um hobby - Conheça [![Instagram](https://img.shields.io/badge/Instagram-E4405F?)](https://www.instagram.com/bra_fotos/)
 
 ### 📫 CONECTE-SE COMIGO
 
