@@ -1,5 +1,5 @@
 # Olá Devs 👋, Seja bem vindo(a) ao meu perfil 
-## Me chamo Joseilde Duque ✨ 
+## Eu me chamo Joseilde Duque ✨ 
 
 - Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, apaixonada por Biologia e sendo feliz no Desenvolvimento Web. Tive um envolvimento com computadores na adolecência, mas só agora me descobri na codificação.
 - 🌱 Atualmente estou estudando Full Stack Java e Angular com a DIO | Santander Bootcamp/2023 e Engenharia de Dados com a Impacta | QualificaSP.
