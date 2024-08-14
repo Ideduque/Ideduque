@@ -11,7 +11,7 @@
 - 📚 Amo ler 
 - 🎶 ouvi musicas
 - 🌱 Mexer com a terra | plantas/hortaliças 
-- 📷 Fotografia é um hobby - Conheça  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?)](https://www.instagram.com/bra_fotos/)
+- 📷 Fotografia é um hobby
 
 ### 📫 CONECTE-SE COMIGO
 
