@@ -3,7 +3,7 @@
 
 - Estou em transição de carreira.
 - Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, apaixonada por Biologia e sendo feliz no Desenvolvimento Web. Tive um envolvimento com computadores na adolecência, mas só agora me descobri na codificação.
-- 🌱 Atualmente estudo FULL STACK com NextCoders e BackEnd / JAVA com a DIO | Santander Bootcamp/2024.
+- 🌱 Atualmente estudo Developer FULL STACK com NextCoders e BackEnd / JAVA com a DIO | Santander Bootcamp/2024.
 - 🔭 Trabalhando nos projetos proposto pelos cursos, colocando assim em prática meu aprendizando e adquirindo experiência.
 
 ### 🔎 CURIOSIDADES
@@ -23,14 +23,11 @@
 ### 📝 ESTOU APRENDENDO
 <br>
 
-<img loading="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img loading="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img loading="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   
-<img loading="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>   
-<img loading="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>  
+<img loading="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>    <img loading="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>    <img loading="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>    <img loading="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>    <img loading="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>  
           
 <br>
 ### 💻 FERRAMENTAS E TECNOLOGIAS
+
 <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,7 +43,7 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-![Eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
