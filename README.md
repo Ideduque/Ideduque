@@ -1,8 +1,9 @@
 # Olá Devs 👋, Seja bem vindo(a) ao meu perfil 
 ## Eu me chamo Joseilde Duque ✨ 
 
+- Estou em transição de carreira.
 - Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, apaixonada por Biologia e sendo feliz no Desenvolvimento Web. Tive um envolvimento com computadores na adolecência, mas só agora me descobri na codificação.
-- 🌱 Atualmente estou estudando BackEnd com JAVA com a DIO | Santander Bootcamp/2024.
+- 🌱 Atualmente estudo FULL STACK com NextCoders e BackEnd / JAVA com a DIO | Santander Bootcamp/2024.
 - 🔭 Trabalhando nos projetos proposto pelos cursos, colocando assim em prática meu aprendizando e adquirindo experiência.
 
 ### 🔎 CURIOSIDADES
@@ -22,7 +23,12 @@
 ### 📝 ESTOU APRENDENDO
 <br>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>        
+<img loading="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img loading="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img loading="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   
+<img loading="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>   
+<img loading="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>  
+          
 <br>
 ### 💻 FERRAMENTAS E TECNOLOGIAS
 <br>
