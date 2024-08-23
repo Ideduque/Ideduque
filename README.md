@@ -1,17 +1,17 @@
 # Olá Devs 👋, Seja bem vindo(a) ao meu perfil 
 ## Eu me chamo Joseilde Duque ✨ 
 
-- Estou em transição de carreira.
-- Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, apaixonada por Biologia e sendo feliz no Desenvolvimento Web. Tive um envolvimento com computadores na adolecência, mas só agora me descobri na codificação.
-- 🌱 Atualmente estudo Developer FULL STACK com NextCoders e BackEnd / JAVA com a DIO | Santander Bootcamp/2024.
+- ⚡ Estou em transição de carreira.
+- 📚 Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, e sendo feliz no Desenvolvimento Web.
+- 🌱 Atualmente estudo Developer FULL STACK com NextCoders e JAVA com Spring Boot na DIO .
 - 🔭 Trabalhando nos projetos proposto pelos cursos, colocando assim em prática meu aprendizando e adquirindo experiência.
 
 ### 🔎 CURIOSIDADES
 
 - ✈️ Adoro viajar, connhecer novos lugares, culturas e pessoas.
 - 📚 Amo ler 
-- 🎶 ouvi musicas
-- 🌱 Mexer com a terra | plantas/hortaliças 
+- 🎶 Ouvi musicas
+- 🌿 Esta em conexão com a natureza, 
 - 📷 Fotografia é um hobby
 
 ### 📫 CONECTE-SE COMIGO
