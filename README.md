@@ -1,4 +1,4 @@
-# Olá Devs 👋, Seja bem vindo(a) ao meu perfil 
+# Olá Devs 👋, Sejam bem vindo(a) ao meu perfil 
 ## Eu me chamo Joseilde Duque ✨ 
 
 - ⚡ Estou em transição de carreira.
