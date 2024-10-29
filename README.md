@@ -3,7 +3,7 @@
 
 - ⚡ Estou em transição de carreira.
 - 📚 Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, e sendo feliz no Desenvolvimento Web.
-- 🌱 Atualmente estudo Developer FULL STACK e JAVA com Spring Boot.
+- 🌱 Estudante de Desenvolvimento de sistemas, Developer FULL STACK e JAVA com Spring Boot.
 - 🔭 Trabalhando nos projetos proposto pelos cursos, colocando assim em prática meu aprendizando e adquirindo experiência.
 
 ### 🔎 CURIOSIDADES
