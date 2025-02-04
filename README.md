@@ -3,7 +3,7 @@
 
 - ⚡ Estou em transição de carreira.
 - 📚 Sou Pós Graduada em Gerenciamento de Resíduos Sólidos e Gestão Ambiental, e sendo feliz no Desenvolvimento Web.
-- 🌱 Estudante de Desenvolvimento de sistemas, Developer FULL STACK e JAVA com Spring Boot.
+- 🌱 Estudante de Desenvolvimento de Sistemas, Developer FULL STACK.
 - 🔭 Trabalhando nos projetos proposto pelos cursos, colocando assim em prática meu aprendizando e adquirindo experiência.
 
 ### 🔎 CURIOSIDADES
@@ -11,7 +11,7 @@
 - ✈️ Adoro viajar, connhecer novos lugares, culturas e pessoas.
 - 📚 Amo ler 
 - 🎶 Ouvi musicas
-- 🌿 Esta em conexão com a natureza, 
+- 🌿 Estar em conexão com a natureza, 
 - 📷 Fotografia é um hobby
 
 ### 📫 CONECTE-SE COMIGO
